@@ -1,6 +1,6 @@
-# UnionLotto  双色球统计图片
+# UnionLotto  双色球统计图表
 
-使用 Electron + react + mongodb
+使用 Electron + react + BizCharts + mongodb 
  
 
 运行：
@@ -12,8 +12,10 @@
 
 图表控件放在 src/components/
 
-<img src="https://github.com/17881055/UnionLotto/blob/master/image/img_1.png?raw=true" width="800" height="320">
 
-<img src="https://github.com/17881055/UnionLotto/blob/master/image/img_2.png?raw=true" width="800" height="320">
 
-<img src="https://github.com/17881055/UnionLotto/blob/master/image/img_3.png?raw=true" width="800" height="320">
+<img src="https://github.com/17881055/UnionLotto/blob/master/image/img_1.png?raw=true" width="800" height="420">
+
+<img src="https://github.com/17881055/UnionLotto/blob/master/image/img_2.png?raw=true" width="800" height="420">
+
+<img src="https://github.com/17881055/UnionLotto/blob/master/image/img_3.png?raw=true" width="800" height="420">
