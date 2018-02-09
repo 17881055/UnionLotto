@@ -12,4 +12,8 @@
 
 图表控件放在 src/components/
 
-<img src="https://github.com/17881055/UnionLotto/blob/master/image/1.jpg?raw=true" width="800" height="500">
+<img src="https://github.com/17881055/UnionLotto/blob/master/image/img_1.png?raw=true" width="800" height="320">
+
+<img src="https://github.com/17881055/UnionLotto/blob/master/image/img_2.png?raw=true" width="800" height="320">
+
+<img src="https://github.com/17881055/UnionLotto/blob/master/image/img_3.png?raw=true" width="800" height="320">
